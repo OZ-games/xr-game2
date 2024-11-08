@@ -1,0 +1,3 @@
+[submodule "Assets/ThirdPartyAssets"]
+	path = Assets/ThirdPartyAssets
+	url = git@github.com:OZ-games/third-party-assets.git
